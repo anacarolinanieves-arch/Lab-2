@@ -1,0 +1,45 @@
+{
+    "chart_title": "Annual Revenue of Cosmetic Brands (USD Millions)",
+    "data_points": [
+        {
+            "label": "Makeup by Mario",
+            "value": 7
+        },
+        {
+            "label": "Rhode",
+            "value": 12
+        },
+        {
+            "label": "Charlotte Tilbury",
+            "value": 126
+        },
+        {
+            "label": "MAC Cosmetics",
+            "value": 411
+        },
+        {
+            "label": "Kylie Cosmetics",
+            "value": 496
+        },
+        {
+            "label": "Rare Beauty",
+            "value": 540
+        },
+        {
+            "label": "Covergirl",
+            "value": 1000
+        },
+        {
+            "label": "Maybelline",
+            "value": 2600
+        },
+        {
+            "label": "Estee Lauder",
+            "value": 15200
+        },
+        {
+            "label": "L'Oreal",
+            "value": 47000
+        }
+    ]
+}
